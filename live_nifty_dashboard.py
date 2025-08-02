@@ -4,7 +4,7 @@ import requests
 import time
 
 # Updated Twelve Data API key as per user input
-TWELVE_DATA_API_KEY = "0e45cd01d16e49da9f90b28bbd375f11"
+TWELVE_DATA_API_KEY = "8eb24d8e9d417c418544e15cefe79965"
 # CSV file URL removed as per user request
 
 def load_stock_list():
@@ -101,3 +101,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
