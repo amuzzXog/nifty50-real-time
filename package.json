@@ -1,0 +1,12 @@
+{
+  "name": "nifty50-dashboard",
+  "version": "1.0.0",
+  "description": "NIFTY 50 Live Dashboard",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "start": "python server.py"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
